@@ -143,4 +143,4 @@ close(sock);
 
 https://www.kernel.org/doc/html/latest/networking/kcm.html
 https://habr.com/ru/companies/infopulse/articles/415259/
-https://www.geeksforgeeks.org/socket-programming-in-cc-handling-multiple-clients-on-server-without-multi-threading/
+https://www.youtube.com/watch?v=Y6pFtgRdUts
