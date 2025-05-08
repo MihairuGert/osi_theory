@@ -142,3 +142,4 @@ close(sock);
 
 
 https://www.kernel.org/doc/html/latest/networking/kcm.html
+https://habr.com/ru/companies/infopulse/articles/415259/
